@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/EnergyFlowWeb/",
+    "build": "vite build --base=/js_97_AnnaRychkova1/",
     "preview": "vite preview"
   },
   "devDependencies": {
